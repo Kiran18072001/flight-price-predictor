@@ -16,7 +16,6 @@ Table of Content
 
 Demo 
 ------
-Link: https://flightfarewebapp.herokuapp.com/
 
 ![FLIGHT PRICE PREDICTION-3](https://user-images.githubusercontent.com/41515202/95026175-0fda3680-06ad-11eb-86dc-457fa5ae1ab6.PNG)
 
